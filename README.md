@@ -1,4 +1,4 @@
-# Vonage video chat application
+# Video Chat Application
 A simple React video chat application using Vonage Video API for the video integration  
 
 ## pre-requisites: 
